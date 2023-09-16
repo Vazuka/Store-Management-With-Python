@@ -82,4 +82,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-If you have any questions or need further assistance, please feel free to contact us at [nikhilvishnoi23@gmail.com](mailto:nikhilvishnoi23@gmail.com).
+If you have any questions or need further assistance, please feel free to contact me at [nikhilvishnoi23@gmail.com](mailto:nikhilvishnoi23@gmail.com).
