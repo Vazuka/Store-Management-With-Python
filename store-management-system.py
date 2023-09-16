@@ -8,7 +8,7 @@ import numpy as np
 
 # Initialize database connection and cursor
 def initialize_db():
-    conn = pymysql.connect(host='localhost', user='root', password='enter-your-mysql-password-here')
+    conn = pymysql.connect(host='localhost', user='root', password='your-mysql-password-here')
     cursor = conn.cursor()
     cursor.execute('CREATE DATABASE IF NOT EXISTS store_management')
     cursor.execute('USE store_management')
